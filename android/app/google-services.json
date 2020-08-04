@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "344618431181",
+    "firebase_url": "https://flash-chat-61a54.firebaseio.com",
+    "project_id": "flash-chat-61a54",
+    "storage_bucket": "flash-chat-61a54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344618431181:android:a79f3039c337267665af84",
+        "android_client_info": {
+          "package_name": "com.ameysatwe.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344618431181-llo9b4k82ds36hulj3r95tgrtc0jbqhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQYeseunn-b3GmM3ZHuP-AbS8-arj6EHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344618431181-llo9b4k82ds36hulj3r95tgrtc0jbqhr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344618431181-fqr5kt9pg3bq4pi6lon1b223g7cu7gvi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ameysatwe.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
